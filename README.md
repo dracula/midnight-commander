@@ -10,7 +10,7 @@ See [iTerm](https://draculatheme.com/iterm/) and [Gnome Terminal](https://dracul
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/mc](https://draculatheme.com/mc).
 
 ## Team
 
