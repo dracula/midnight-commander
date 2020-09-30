@@ -2,7 +2,7 @@
 
 > A dark theme for [Midnight Commander (mc)](https://midnight-commander.org/)
 
-As mc is a terminal (command line) based application, this theme is entirely dependent on the relevant dracula theme for your terminal too. This theme uses the color pallette fixed by your terminal's Dracula theme and will not work in isolation.
+As mc is a terminal (command line) based application, this theme is entirely dependent on the relevant dracula theme for your terminal too. This theme uses the color palette fixed by your terminal's Dracula theme and will not work in isolation.
 
 See [iTerm](https://draculatheme.com/iterm/) and [Gnome Terminal](https://draculatheme.com/gnome-terminal/) themes for example.
 
