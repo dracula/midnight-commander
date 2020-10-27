@@ -18,16 +18,15 @@ The 256 color version will work regardless of terminal color schemes and profile
 
 ![256 Color Screenshot](./screenshot256.png)
 
-
 ## Install
 
-All instructions can be found at [draculatheme.com/mc](https://draculatheme.com/mc).
+All instructions can be found at [draculatheme.com/midnight-commander](https://draculatheme.com/midnight-commander).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/mc/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/midnight-commander/graphs/contributors).
 
-[![Darren Davison](https://avatars0.githubusercontent.com/u/591251?v=3&s=70)](https://github.com/davison) | 
+[![Darren Davison](https://avatars0.githubusercontent.com/u/591251?v=3&s=70)](https://github.com/davison) |
 --- |
 [Darren Davison](https://github.com/davison) |
 

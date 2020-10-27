@@ -11,7 +11,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
     # clone anywhere you like, but adjust paths as needed
     mkdir ~/dracula-theme && cd ~/dracula-theme
-    git clone https://github.com/dracula/mc.git
+    git clone https://github.com/dracula/midnight-commander.git
     
     mkdir -p ~/.local/share/mc/skins && cd ~/.local/share/mc/skins
     ln -s ~/dracula-theme/mc/skins/dracula.ini
@@ -20,9 +20,9 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 ## Install manually
 
-For 8/16 colors; download the latest [raw file](https://raw.githubusercontent.com/dracula/mc/master/skins/dracula.ini) and save it as `~/.local/share/mc/skins/dracula.ini`
+For 8/16 colors; download the latest [raw file](https://raw.githubusercontent.com/dracula/midnight-commander/master/skins/dracula.ini) and save it as `~/.local/share/mc/skins/dracula.ini`
 
-For 256 colors; download the latest [raw file](https://raw.githubusercontent.com/dracula/mc/master/skins/dracula256.ini) and save it as `~/.local/share/mc/skins/dracula256.ini`
+For 256 colors; download the latest [raw file](https://raw.githubusercontent.com/dracula/midnight-commander/master/skins/dracula256.ini) and save it as `~/.local/share/mc/skins/dracula256.ini`
 
 ## Activating theme
 
