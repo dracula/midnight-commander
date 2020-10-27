@@ -1,11 +1,10 @@
-# [Midnight Commander (mc)](https://midnight-commander.org/)
+### [Midnight Commander (mc)](https://midnight-commander.org/)
 
 Note that this theme is entirely dependent on having installed the relevant dracula theme for your terminal too. This theme uses the color palette fixed by your terminal.
 
 See [iTerm](https://draculatheme.com/iterm/) and [Gnome Terminal](https://draculatheme.com/gnome-terminal/) themes for example.
 
-
-## Install using Git
+#### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
@@ -18,13 +17,13 @@ If you are a git user, you can install the theme and keep up to date by cloning 
     ln -s ~/dracula-theme/mc/skins/dracula256.ini
 
 
-## Install manually
+#### Install manually
 
 For 8/16 colors; download the latest [raw file](https://raw.githubusercontent.com/dracula/midnight-commander/master/skins/dracula.ini) and save it as `~/.local/share/mc/skins/dracula.ini`
 
 For 256 colors; download the latest [raw file](https://raw.githubusercontent.com/dracula/midnight-commander/master/skins/dracula256.ini) and save it as `~/.local/share/mc/skins/dracula256.ini`
 
-## Activating theme
+#### Activating theme
 
 Update your mc settings..
 
