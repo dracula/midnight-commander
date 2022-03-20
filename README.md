@@ -8,7 +8,7 @@ The 8/16 theme is actually truer to the Dracula color palette than the 256 color
 
 ## 8/16 Color
 
-The 8/16 color version will work in terminals that don't support 256 colors but it is *entirely* dependent on the relevant Dracula theme for your terminal too. This version uses the color palette fixed by your terminal's Dracula theme and will not work in isolation. See [iTerm](https://draculatheme.com/iterm/) and [Gnome Terminal](https://draculatheme.com/gnome-terminal/) themes for example.
+The 8/16 color version will work in terminals that don't support 256 colors but it is _entirely_ dependent on the relevant Dracula theme for your terminal too. This version uses the color palette fixed by your terminal's Dracula theme and will not work in isolation. See [iTerm](https://draculatheme.com/iterm/) and [Gnome Terminal](https://draculatheme.com/gnome-terminal/) themes for example.
 
 ![8/16 Color Screenshot](./screenshot.png)
 
@@ -26,9 +26,15 @@ All instructions can be found at [draculatheme.com/midnight-commander](https://d
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/midnight-commander/graphs/contributors).
 
-[![Darren Davison](https://avatars0.githubusercontent.com/u/591251?v=3&s=70)](https://github.com/davison) |
---- |
-[Darren Davison](https://github.com/davison) |
+| [![Darren Davison](https://avatars0.githubusercontent.com/u/591251?v=3&s=70)](https://github.com/davison) |
+| --------------------------------------------------------------------------------------------------------- |
+| [Darren Davison](https://github.com/davison)                                                              |
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## License
 
