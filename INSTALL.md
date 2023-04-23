@@ -39,4 +39,11 @@ Option 1: edit `~/.config/mc/ini` and add `skin=dracula` to the `[Midnight-Comma
 
 Option 2: choose the skin through the mc UI with F9 > Options > Appearance
 
+Option 3 (for version 4.8.11 and below): edit `~/.bashrc` and add to the end of file `alias mc='mc -S ~/.local/mc/skins/dracula.ini'`
+
+    # for 8/16 color..
+    echo "alias mc='mc -S ~/.local/mc/skins/dracula.ini'" >> ~/.bashrc
+    # for 256 color..
+    echo "alias mc='mc -S ~/.local/mc/skins/dracula256.ini'" >> ~/.bashrc
+
 Boom! It's working
